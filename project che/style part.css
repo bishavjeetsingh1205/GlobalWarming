@@ -1,0 +1,67 @@
+.jag{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 20px;
+    color: crimson;
+    text-decoration: 3px underline black;
+}
+
+.jag h1{
+    margin-top: -30px;
+}
+
+.jag a{
+    text-decoration: none;
+    color: black;
+    margin-left: -1720px;
+}
+
+.mann{
+    margin-top: 60px;
+    /* margin-left: 60px; */
+    display: inline-block;
+}
+
+#jag{
+    float: left;
+    margin-left: 77px;
+    width: 320px;
+    height: 450px;
+    margin-bottom: 25px;
+}
+
+#par{
+    float: right;
+    margin-right: -555px;
+    width: 350px;
+}
+
+#mann{
+    margin-top: -3px;
+    margin-left: 335px;
+    padding-right: 70px;
+    width: 355px;
+    height: 449px;
+}
+
+.par ul{
+    display: inline-block;
+    list-style: none;
+    line-height: 33px;
+    font-size: 25px;
+    margin-top: -10px;
+}
+
+.bha{
+    margin-left: 50px;
+}
+
+.sukh{
+    margin-left: 232px;
+}
+
+.amn{
+    margin-left: 230px;
+    margin-top: 0px;
+    /* font-size: 20px; */
+}

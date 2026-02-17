@@ -1,0 +1,304 @@
+html{
+    scroll-behavior: smooth;
+}
+
+.logo{
+    float: left;
+    margin-left: -45px;
+
+}
+
+.bishav{
+    width: 85%;
+    margin: auto;
+    padding: 35px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.bishav ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+    position: relative;
+    font-size: 18px;
+}
+
+.bishav ul li a{            
+    text-decoration: none;
+    font-weight: 700;
+    color: white;
+    float: right;
+    margin-right: -10px;
+}
+.aditya{
+    background-image: linear-gradient(rgba(0,0,0,0.75), rgba(0,0,0,0.75)), url(home.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 748px;
+    margin-top: 15px;
+}
+
+.vinit p{
+    text-align: center;
+    color: aqua;
+    font-size: 30px;
+    margin-top: 200px;
+}
+
+.minder{
+    margin-top: 420px;
+    margin-left: 35px;
+    font-size: 21px;
+}
+
+.minder p{
+    margin-left: 55px;
+    line-height: 36px;
+    margin-right: 75px;
+    font-size: 22px;
+    font-weight: 700;
+}
+
+.singh{
+    margin-top: 105px;
+    margin-left: 35px;
+    font-size: 21px;
+}
+
+.singh h2{
+    margin-left: 38px;
+    margin-top: 40px;
+    font-size: 30px;
+}
+
+.singh img{
+    float: right;
+    width: 500px;
+    margin-top: -40px;
+    margin-right: 30px;
+    padding-left: 30px;
+}
+
+.singh p{
+    margin-left: 55px;
+    margin-top: -10px;
+    line-height: 36px;
+    font-size: 23px;
+    text-align: justify;
+}
+
+.vinder{
+    margin-left: 72px;
+    margin-top: 120px;
+    font-size: 21px;
+}
+
+.vinder p{
+    margin-top: -5px;
+    margin-left: 20px;
+    line-height: 38px;
+    font-size: 23px;
+    text-align: justify;
+}
+
+.vinder img{
+    float: right;
+    width: 512px;
+    margin-top: -35px;
+    margin-right: 29px;
+    padding-left: 30px;
+}
+
+.flex-container{
+    display: flex;
+}
+
+.flex-container > div{
+    background-color: antiquewhite;
+    margin-left: 140px;
+    margin-top: 150px;
+    padding: 60px;
+    border-radius: 12px;
+    border: 0px solid antiquewhite;
+    width: 300px;
+    height: 360px;
+    font-size: 22px;
+    display: inline-block;
+    transition: transform 0.5s;
+}
+
+.flex-container > div:hover{
+    background-image: linear-gradient(to top left, red, yellow);
+    transform: translateY(-5px);
+}
+
+.flex-container p{
+    font-size: 16px;
+    text-align: justify;
+}
+
+.flex-container a{
+    color: darkgreen;
+    font-weight: 550;
+}
+
+.deep{
+    display: flex;
+}
+
+.deep > div{
+    background-color: antiquewhite;
+    border-radius: 12px;
+    border: 0px solid antiquewhite;
+    display: inline-block;
+    transition: transform 0.5s;
+    margin-left: 310px;
+    margin-top: 100px;
+    padding: 60px;
+    width: 300px;
+    height: 50px;
+    font-size: 22px;
+}
+
+.deep > div:hover{
+    background-image: linear-gradient(to top left, red, yellow);
+    transform: translateY(-5px);
+}
+
+.deep div a{
+    text-decoration: none;
+    color: blue;
+}
+
+.sam{
+    background-image: linear-gradient(rgba(0,0,0,0.20), rgba(0,0,0,0.20)), url(last.jpg);
+    margin-top: 2300px;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 755px;
+    margin-bottom: -6px;
+    margin-left: -8px;
+    padding-right: 16px;
+    color: white;
+}
+
+.uels{
+    width: 110px;
+    margin-left: 60px;
+    margin-top: 40px;
+}
+
+.sam h3{
+    margin-left: 360px;
+    margin-top: -27px;
+    font-size: 22px;
+}
+
+.sam h3 ul li{
+    list-style: none;
+    margin-left: -20px;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 28px;
+}
+
+.sam ul a{
+    text-decoration: none;
+    color: white;
+}
+
+.sam ul a:hover{
+    text-decoration: underline;
+}
+
+.kris{
+    margin-left: 350px;
+    margin-top: -215px;
+}
+
+.kris h3{
+    font-size: 22px;
+}
+
+.kris h3 ul li{
+    list-style: none;
+    margin-left: -20px;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 28px;
+}
+
+.kris ul a{
+    text-decoration: none; 
+    color: white;
+    margin-left: -17px;
+}
+
+.kris ul a:hover{
+    text-decoration: underline;
+}
+
+.hna{
+    margin-left: 740px;
+    margin-top: -350px;
+}
+
+.hna h3{
+    font-size: 22px;
+}
+
+.hna ul li{
+    list-style: none;
+    margin-left: -20px;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 28px;
+}
+
+.hna ul a{
+    text-decoration: none; 
+    color: white;
+    margin-left: -17px;
+}
+
+.hna ul a:hover{
+    text-decoration: underline;
+}
+
+.writevert{
+    writing-mode: vertical-lr;
+    margin-top: -510px;
+    margin-left: 1624px;
+    font-size: 30px;
+    color: red;
+}
+
+.orng{
+    color: orange;
+    margin-left: -87px;
+    margin-top: 206px;
+}
+
+.whitesp{
+    width: 1700px;
+    background-color: blue;
+    border: none;
+    height: 0.5px;
+    margin-top: 84px;
+    margin-bottom: 80px;
+}
+
+.anch a{
+    color: white;
+    margin-left: 900px;
+    text-decoration: none;
+}
+
+.anch a:hover{
+    text-decoration: underline;
+}

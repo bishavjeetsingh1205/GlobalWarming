@@ -1,0 +1,85 @@
+body{
+    font-family: sans-serif;
+    text-align: center;
+}
+
+h1{
+    color: black;
+    margin-top: 30px;
+}
+
+.radio-inline{
+    margin: 0px 40px 20px 0px;
+    cursor: pointer;
+}
+
+#text{
+    height: 40px;
+    border-radius: 6px;
+    padding-left: 10px;
+    font-size: 14px;
+    /* border: none; */
+    width: 20%;
+    color: #000;
+    display: inline-block;
+}
+
+#txext{
+    height: 40px;
+    border-radius: 6px;
+    padding-left: 10px;
+    font-size: 14px;
+    /* border: none; */
+    width: 20%;
+    color: #000;
+    display: inline-block;
+    /* margin-left: 20px; */
+}
+
+#msg{
+    outline: none;
+    padding: 10px 0px 0px 15px;
+    font-size: 16px;
+    color: #000;
+    border-radius: 6px;
+    border-width: 2px;
+}
+
+.horirule{
+    width: 1200px;
+    height: 2px;
+    background-color: #000;
+    margin-bottom: -10px;
+}
+
+h5{
+    margin-bottom: 35px;
+}
+
+.btn{
+    width: 25%;
+    height: 24px
+}
+
+.btnn{
+    width: 20%;
+    height: 24px;
+}
+
+.naming{
+    margin-left: -906px;
+    margin-bottom: 2px;
+    font-size: 18px;
+}
+
+.hpage a{
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: 1512px
+}
+
+.hpage a:hover{
+    text-decoration: underline;
+}

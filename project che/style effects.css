@@ -1,0 +1,162 @@
+.inder{
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    text-decoration: underline;
+    padding-top: 1px;
+}
+
+.inder h1{
+    margin-top: -10px;
+}
+
+.inder a{
+    text-decoration: none;
+    color: white;
+    margin-left: -1720px;
+}
+
+.har{
+    background-image: linear-gradient(rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url(effects\ back.avif);
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 738px;
+    margin-top: 12px;
+}
+
+.bal{
+    color: aqua;
+    text-align: center;
+    margin-top: 200px;
+}
+
+.winder{
+    margin-top: 500px;
+    margin-left: 48px;
+    padding-right: 60px;
+    line-height: 44px;
+    font-size: 23px;
+    text-align: justify;
+}
+
+.winder img{
+    margin-left: 495px;
+    margin-top: 40px;
+}
+
+.sur{
+    line-height: 44px;
+    font-size: 23px;
+    margin-top: 40px;
+}
+
+.sur h2{
+    margin-left: 18px;
+}
+
+.sur h3{
+    margin-left: 39px;
+}
+
+.sur p{
+    margin-left: 56px;
+    padding-right: 51px;
+    text-align: justify;
+}
+
+.sur img{
+    margin-left: 400px;
+    margin-top: 8px;
+}
+
+.pri{
+    line-height: 44px;
+    font-size: 23px;
+    margin-top: 25px;
+}
+
+.pri h3{
+    margin-left: 39px;
+}
+
+.pri p{
+    margin-left: 56px;
+    padding-right: 51px;
+    text-align: justify;
+}
+
+.pri img{
+    margin-top: 30px;
+    margin-left: 400px;
+}
+
+.raj{
+    line-height: 48px;
+    font-size: 23px;
+    margin-top: 25px;
+}
+
+.raj h3{
+    margin-left: 39px;
+}
+
+.raj p{
+    margin-left: 56px;
+    padding-right: 51px;
+    text-align: justify;
+}
+
+.raj img{
+    margin-left: 465px;
+    margin-top: 20px;
+}
+
+.bhup{
+    line-height: 44px;
+    font-size: 23px;
+    margin-top: 25px;
+}
+
+.bhup h3{
+    margin-left: 39px;
+}
+
+.bhup p{
+    margin-left: 56px;
+    padding-right: 51px;
+    text-align: justify;
+}
+
+.malk{
+    line-height: 44px;
+    font-size: 23px;
+    margin-top: 25px;
+}
+
+.malk h3{
+    margin-left: 39px;
+}
+
+.malk p{
+    margin-left: 56px;
+    padding-right: 51px;
+    text-align: justify;
+}
+
+.malk img{
+    margin-left: 458px;
+    margin-top: 30px;
+}
+
+.jit a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 1636px;
+}
+
+.jit a:hover{
+    text-decoration: underline;
+}

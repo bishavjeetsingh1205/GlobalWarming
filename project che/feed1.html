@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="icon" href="/ico/faviconche.ico.png" type="image/o-icon">
+    <link rel="stylesheet" href="style feed.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Feedback Form</title>
+</head>
+<body>
+    <main>
+         <h1>Feedback Form</h1>
+         <hr class="horirule">
+         <h5>Please submit your feedback below</h5>
+              <form action="mailto:simon.long@cit.ie" method="post" enctype="text/plain">
+                First Name* <input id="text"  type="text" name="yourname" placeholder="Enter name here">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                Last Name* <input id="text" type="text" name="yourname" placeholder="Enter name here">
+                <br><br>
+                Email addr.* <input id="txext" type="email" name="mail" placeholder="E-mail address">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                Phone no* <input id="text" type="number" name="phone" placeholder="xxxxx-xxxxx">
+                <br>
+                <br>
+                <br>
+                <h4>How do you rate your overall experience?</h4>
+                <input id="radio-inline" type="radio" name="exp" value="Bad">Bad&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <input id="radio-inline" type="radio" name="exp" value="Good">Good&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <input id="radio-inline" type="radio" name="exp" value="Excellent">Excellent
+                <br>
+                <br>
+                <br>
+                  <p class="naming">Feedback* </p>        
+                  <textarea id="msg" rows="10" cols="110" name="commentfield" placeholder="Write your feedback here"></textarea>
+                  <br>
+                  <br>
+                  <input class="btn" type="submit" value="Send Feedback"><br><br>
+                  <input class="btnn" type="reset" value="Reset">
+              </form><br><br><br><br>
+        <div class="hpage">
+            <a href="che.html"><i class="fa fa-angle-left" aria-hidden="true"></i> Back to Home Page</a>
+        </div>
+    </main>
+</body>
+</html>

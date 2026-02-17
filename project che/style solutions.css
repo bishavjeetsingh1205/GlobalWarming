@@ -1,0 +1,223 @@
+.sim{
+    background-image: linear-gradient(rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url(Solutions.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 750px;
+    margin-top: 12px;
+}
+
+.jaj{
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    text-decoration: underline;
+    padding-top: 1px;
+}
+
+.jaj h1{
+    margin-top: -10px;
+}
+
+.jaj a{
+    text-decoration: none;
+    color: white;
+    margin-left: -1720px;
+}
+
+.har{
+    color: aqua;
+    margin-top: 200px;
+    text-align: center;
+    line-height: 36px;
+}
+
+.gur{
+    margin-top: 470px;
+    margin-left: 48px;
+    padding-right: 60px;
+    line-height: 43px;
+    font-size: 22px;
+    text-align: justify;
+}
+
+.gur img{
+    margin-left: 500px;
+    margin-top: 30px;
+}
+
+.jot{
+    line-height: 43px;
+    font-size: 26px;
+    margin-top: 40px;
+}
+
+.jot h3{
+    margin-left: 30px;
+}
+
+.jot p{
+    margin-left: 48px;
+    padding-right: 60px;
+    line-height: 43px;
+    font-size: 22px;
+    text-align: justify;
+}
+
+.sarr{
+    line-height: 43px;
+    font-size: 26px;
+    margin-top: 40px;
+}
+
+.sarr h3{
+    margin-left: 30px;
+}
+
+.sarr p{
+    margin-left: 48px;
+    padding-right: 60px;
+    line-height: 43px;
+    font-size: 22px;
+    text-align: justify;
+}
+
+#sarr{
+    float: right;
+    margin-right: 200px;
+}
+
+#aansh{
+    float: left;
+    margin-left: 100px;
+}
+
+.rose{
+    line-height: 43px;
+    font-size: 26px;
+    margin-top: 650px;
+}
+
+.rose h3{
+    margin-left: 30px;
+}
+
+.rose p{
+    margin-left: 48px;
+    padding-right: 60px;
+    line-height: 43px;
+    font-size: 22px;
+    text-align: justify;
+}
+
+#rose{
+    margin-top: 40px;
+    margin-bottom: 30px;
+    margin-left: 26%;
+}
+
+#harv{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 30%;
+}
+
+#bij{
+    margin-top: 38px;
+    float: left;
+    margin-left: 20px;
+}
+
+#jab{
+    margin-top: 40px;
+    float: right;
+    margin-right: 20px;
+}
+
+.kus{
+    line-height: 43px;
+    font-size: 26px;
+    margin-top: 650px;
+}
+
+.kus h3{
+    margin-left: 30px;
+}
+
+.kus p{
+    margin-left: 48px;
+    padding-right: 60px;
+    line-height: 43px;
+    font-size: 22px;
+    text-align: justify;
+}
+
+#deep{
+    margin-top: 20px;
+    margin-bottom: 15px;
+    margin-left: 500px;
+}
+
+#mit{
+    margin-top: 20px;
+    margin-left: 500px;
+}
+
+.deep{
+    line-height: 43px;
+    font-size: 26px;
+    margin-top: 50px;
+}
+
+.deep h3{
+    margin-left: 30px;
+}
+
+.deep p{
+    margin-left: 48px;
+    padding-right: 60px;
+    line-height: 43px;
+    font-size: 22px;
+    text-align: justify;
+}
+
+#ratt{
+    margin-top: 20px;
+    margin-bottom: 15px;
+    margin-left: 200px;
+}
+
+#pla{
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+
+#bisj{
+    margin-left: 90px;
+    margin-top: 20px;
+}
+
+#jasb{
+    float: right;
+    margin-right: 120px;
+}
+
+.mit{
+    margin-left: 48px;
+    padding-right: 60px;
+    line-height: 43px;
+    font-size: 22px;
+    text-align: justify;
+}
+
+#jaz a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 1624px;
+}
+
+#jaz a:hover{
+    text-decoration: underline;
+}
