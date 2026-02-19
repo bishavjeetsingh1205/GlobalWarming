@@ -149,7 +149,7 @@ We welcome contributions from anyone passionate about climate action! Here's how
 
 ## 📧 Contact & Feedback
 
-- **Email:** bishavjeetsingh1205@gmail.com
+- **Email:** bishavjeetparmar0405@gmail.com
 - **GitHub:** [@bishavjeetsingh1205](https://github.com/bishavjeetsingh1205)
 
 Use the **Feedback Form** on the website to share your thoughts and suggestions!
