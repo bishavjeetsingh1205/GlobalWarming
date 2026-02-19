@@ -170,8 +170,6 @@ This project is open source and available under the MIT License.
 
 - [Visit Website](https://bishavjeetsingh1205.github.io/GlobalWarming/)
 - [GitHub Repository](https://github.com/bishavjeetsingh1205/GlobalWarming)
-- [Join Our Community](https://bishavjeetsingh1205.github.io/GlobalWarming/project%20che/addme.html)
-- [Send Feedback](https://bishavjeetsingh1205.github.io/GlobalWarming/project%20che/feed1.html)
 
 ---
 
